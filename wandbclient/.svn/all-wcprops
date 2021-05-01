@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/wandbclient/!svn/ver/7
+END
+client.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/wandbclient/!svn/ver/6/client.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/wandbclient/!svn/ver/6/main.cpp
+END
+wanDBClient.pro.user
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/wandbclient/!svn/ver/9/wanDBClient.pro.user
+END
+wanDBClient.pro
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/wandbclient/!svn/ver/8/wanDBClient.pro
+END
+client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/wandbclient/!svn/ver/9/client.cpp
+END
