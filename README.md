@@ -1,2 +1,2 @@
 # WanDB
- A cloud based graphical database.
+ A cloud based graph database.
